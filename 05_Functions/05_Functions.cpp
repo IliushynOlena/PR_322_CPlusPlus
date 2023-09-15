@@ -46,7 +46,7 @@ void First()
 
 }
 
-void Change(int One, int Two) 
+void Change(int One, int Two) //copy
 {
 	// 1 2
 	cout << One << " " << Two << "\n\n";
